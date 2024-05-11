@@ -1,1 +1,2 @@
 # IBM-HR-Analytics-Employee-Attrition
+This project aims to analyze and predict employee attrition using machine learning techniques. The dataset used is the IBM HR Analytics Employee Attrition & Performance dataset, which contains various attributes related to employee demographics, job roles, satisfaction levels, performance ratings, etc., along with a target variable indicating whether an employee has left the company (Yes or No).
